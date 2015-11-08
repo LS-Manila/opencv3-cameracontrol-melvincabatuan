@@ -38,4 +38,20 @@ $ git push -u origin master
 
 ![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-083713.png)
 
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-171546.png)
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-171642.png)
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-171707.png)'
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-171739.png)
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-171850.png)
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-171930.png)
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-172048.png)
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan/blob/master/device-2015-11-08-172131.png)
+
 "*All things being equal, the simplest solution tends to be the best one.*" - William of Ockham (English friar and philosopher) 
